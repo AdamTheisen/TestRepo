@@ -1,7 +1,3 @@
-import sys,os
-
-sys.path.append('../../')
-
 import testrepo
 
 def test_hello():
