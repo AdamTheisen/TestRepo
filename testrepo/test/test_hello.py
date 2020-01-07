@@ -1,6 +1,6 @@
-import sys
+import sys,os
 
-sys.path.append('/Users/atheisen/Code/TestRepo/')
+sys.path.append('../../')
 
 import testrepo
 
